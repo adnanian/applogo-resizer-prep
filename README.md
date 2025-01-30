@@ -1,0 +1,1 @@
+# applogo-resizer-prep
